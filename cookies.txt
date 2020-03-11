@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.marconicivitavecchia.it	TRUE	/	FALSE	1999999999	64e99d19e195e8cf0916b63eb4d33d04	2dfdcf1cceba117e551578c4b0e1192d
+www.marconicivitavecchia.it	TRUE	/	FALSE	1999999999	sj_university2_tpl	sj_university2
+.informagiovaniroma.it	TRUE	/	FALSE	1999999999	SESS51a22a12ce7e5cad677f2796111cf758	fecvfsh0pd36rcq3taaidpqut5
+
